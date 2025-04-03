@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ABC Fabrication Ltd.",
+    "location": "Toronto, ON",
+    "latitude": 43.7,
+    "longitude": -79.4,
+    "services": ["CNC Machining", "Metal Stamping"],
+    "certifications": ["ISO 9001", "CSA W47.1"],
+    "contact": "contact@abcfabrication.com"
+  },
+  {
+    "name": "XYZ Welding Inc.",
+    "location": "Ottawa, ON",
+    "latitude": 45.4,
+    "longitude": -75.7,
+    "services": ["Welding", "Custom Fabrication"],
+    "certifications": ["CWB Certified"],
+    "contact": "info@xyzwelding.com"
+  }
+]
